@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob! 
-- 👀 I’m interested in everything that's creative. Currently I'm programming my way up to becoming an **expert** Web Developer. Before, I used to produce electronic music for about a **decade**... If you fancy a listen check it out [here](https://www.soundcloud.com/collision-vortex)!
-- 🌱 I’m currently learning `Svelte` and refreshing my knowledge of `Jest` and `TDD`.
+- 👀 I’m interested in everything that's creative. Currently I'm programming my way up to becoming an **expert** Web Developer. I have always been dedicated to music, inlcuding making my own. If you fancy a listen check it out [here](https://www.soundcloud.com/collision-vortex)!
+- 🌱 I’m currently learning `Refine` for a side-project.
 - 💞️ I’m looking to collaborate on anything that's exciting!
 - 📫 You can reach me via [email](mailto:rsjamborski@gmail.com) or [LinkedIn](https://www.linkedin.com/in/robert-jamborski)
 
